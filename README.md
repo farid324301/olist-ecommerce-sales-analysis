@@ -30,12 +30,6 @@ The analysis is divided into four main business areas:
 
 Through this project, business questions related to revenue growth, customer behavior, repeat purchasing patterns, and product performance are explored to generate actionable business insights.
 
-# Data Structure & Initial Checks
-
-The project uses a relational e-commerce dataset consisting of multiple interconnected tables related to customers, orders, products, and transactional activities.
-
-The data model was structured in Power BI using a star-schema-like approach to support analytical reporting and dashboard performance.
-
 ## Project Links
 
 An interactive Power BI dashboard can be downloaded [here](dashboard/olist_dashboard.pbix).
@@ -49,6 +43,14 @@ The SQL queries used for Product Category Insight can be found [here](sql/produc
 The SQL queries used for Customer Insight and RFM segmentation can be found [here](sql/customer_insight.sql).
 
 ## Entity Relationship Diagram (ERD)
+
+
+# Data Structure & Initial Checks
+
+The project uses a relational e-commerce dataset consisting of multiple interconnected tables related to customers, orders, products, and transactional activities.
+
+The data model was structured in Power BI using a star-schema-like approach to support analytical reporting and dashboard performance.
+
 
 > ![ERD](image/erd.png)
 
