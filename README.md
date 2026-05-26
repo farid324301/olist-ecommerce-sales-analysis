@@ -32,7 +32,7 @@ Through this project, business questions related to revenue growth, customer beh
 
 ## Project Links
 
-An interactive Power BI dashboard can be downloaded [here](dashboard/olist_dashboard.pbix).
+An interactive Power BI dashboard can be downloaded [here](dashboard/Olist_Sales_Performance_Dashboard.pbix).
 
 The SQL queries used for Executive Overview analysis can be found [here](sql/executive_overview.sql).
 
