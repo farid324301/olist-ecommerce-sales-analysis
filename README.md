@@ -30,18 +30,9 @@ The project uses a relational e-commerce dataset consisting of multiple intercon
 
 The data model was structured in Power BI using a star-schema-like approach to support analytical reporting and dashboard performance.
 
-Main relationships include:
-
-* Orders connected to Customers through `customer_id`
-* Order Items connected to Orders through `order_id`
-* Products connected to Order Items through `product_id`
-* DateTable connected to Orders for time-based analysis
-
----
-
 ## Entity Relationship Diagram (ERD)
 
-> Insert ERD image here
+> ![ERD](images/erd.png)
 
 ---
 
