@@ -42,8 +42,6 @@ The SQL queries used for Product Category Insight can be found [here](sql/produc
 
 The SQL queries used for Customer Insight and RFM segmentation can be found [here](sql/customer_insight.sql).
 
-## Entity Relationship Diagram (ERD)
-
 
 # Data Structure & Initial Checks
 
