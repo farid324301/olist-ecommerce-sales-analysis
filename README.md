@@ -83,7 +83,7 @@ These challenges helped strengthen the overall analytical process through repeat
 
 * Average Order Value remained relatively stable across most months. In 2017, AOV generally ranged between **$124** and **$150**, while in 2018 it mostly stayed between **$125** and **$145**. This supports the conclusion that revenue growth was driven more by order volume expansion than by a significant increase in customer spending per order.
 
-* One important limitation is visible in late 2018, where September shows only 16 orders and nearly **$0.00M revenue**. This appears to be caused by incomplete transaction records in the dataset rather than an actual business collapse. Because of this, late-2018 data should be interpreted carefully.
+* One important limitation is visible in late 2018, where September shows only **16 orders** and nearly **$0.00M revenue**. This appears to be caused by incomplete transaction records in the dataset rather than an actual business collapse. Because of this, late-2018 data should be interpreted carefully.
 
 Overall, the Sales Trends analysis shows that Olist experienced strong marketplace growth in 2017, followed by a more stable but still high-volume performance period in 2018. Revenue growth was primarily supported by increased order activity, while AOV remained comparatively stable.
 
@@ -104,20 +104,17 @@ Overall, the product analysis suggests that Olist’s sales performance was supp
 
 # Customer Insight
 
-Customer behavior analysis reveals that the platform is heavily dominated by **one-time purchasers**, while repeat customers represent a significantly smaller portion of the customer base. This suggests that customer acquisition is strong, but long-term retention remains a major business challenge.
+> ![Customer Insight](image/Customer_insight.png)
 
-RFM segmentation further highlights this pattern. The largest customer segment was classified as **“At Risk”**, indicating a substantial number of customers who previously purchased but have not returned recently. This may signal declining customer engagement or insufficient retention strategies.
+* Customer behavior analysis shows that Olist is heavily dominated by one-time customers, with approximately 93K customers making only one purchase, while repeat customers account for only around **3K customers**. This indicates that customer acquisition was strong, but repeat purchase behavior remained very limited.
 
-Although smaller in customer count, the **“Big Spenders”** segment generated disproportionately high revenue contribution, demonstrating that a relatively small group of high-value customers contributes a significant share of total sales.
+* RFM segmentation further supports this finding. The largest customer segment is At Risk, with nearly **60K customers**, suggesting that a large portion of customers purchased in the past but have not returned recently. This highlights a major retention challenge for the platform.
 
-Geographic analysis also showed that revenue is concentrated in several major Brazilian states and cities, with São Paulo and surrounding regions contributing heavily to overall marketplace performance.
+* From a revenue perspective, Big Spenders generated the highest revenue contribution, reaching nearly **$6M**, despite not being the largest customer segment. This indicates that a smaller group of high-value customers contributed disproportionately to total sales.
 
-These findings suggest that future business growth opportunities may lie in:
+* Geographic analysis also shows that revenue concentration is stronger in several major Brazilian states, especially around SP (São Paulo) and other high-activity regions. This suggests that customer demand is not evenly distributed geographically and that certain regions play a larger role in marketplace performance.
 
-* improving repeat purchase behavior,
-* increasing customer retention,
-* strengthening loyalty initiatives,
-* and developing personalized marketing strategies targeting high-value customer segments.
+Overall, the customer analysis suggests that Olist’s main opportunity is not only acquiring new customers, but also improving retention among one-time and at-risk customers while maintaining stronger engagement with high-value customer segments.
 
 # Recommendations
 
