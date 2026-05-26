@@ -1,3 +1,7 @@
+# Olist E-Commerce Sales & Customer Analytics
+
+An end-to-end e-commerce analytics project using MySQL and Power BI to analyze sales performance, product category behavior, and customer retention opportunities.
+
 Project Background
 
 This project analyzes the Brazilian E-Commerce Public Dataset published by Olist, a Brazilian technology company that provides e-commerce and marketplace solutions for small and medium-sized businesses.
@@ -8,7 +12,7 @@ The objective of this project is to transform raw transactional data into busine
 
 The project simulates a real-world business intelligence workflow including:
 
-* Data cleaning and validation using SQL
+* Data exploration and validation using SQL
 * Relational data modeling
 * KPI development
 * Time-series analysis
@@ -119,9 +123,9 @@ Based on the analysis conducted across sales performance, product categories, an
 
 ---
 
-# Short-Term Plan
+## Short-Term Plan
 
-## Improve Customer Retention
+### Improve Customer Retention
 
 The analysis revealed that the marketplace is heavily dominated by one-time purchasers, while the “At Risk” segment represents the largest customer group. This indicates that customer acquisition is relatively strong, but repeat purchasing behavior remains limited.
 
@@ -131,7 +135,7 @@ Improving repeat purchase behavior could significantly increase long-term custom
 
 ---
 
-## Focus on High-Performing Product Categories
+### Focus on High-Performing Product Categories
 
 Several product categories consistently contributed strong revenue and order volume performance, particularly:
 
@@ -147,7 +151,7 @@ Strengthening already successful categories may generate faster short-term reven
 
 ---
 
-## Increase Average Order Value (AOV)
+### Increase Average Order Value (AOV)
 
 Although revenue and orders experienced strong growth, Average Order Value (AOV) remained relatively stable and slightly declined over time. This suggests that revenue growth is currently driven more by transaction volume than by increased customer spending per order.
 
@@ -162,9 +166,9 @@ Increasing basket size could improve profitability without relying entirely on n
 
 ---
 
-# Long-Term Plan
+## Long-Term Plan
 
-## Develop Customer Loyalty & Segmentation Strategy
+### Develop Customer Loyalty & Segmentation Strategy
 
 The RFM analysis demonstrates that customer purchasing behavior varies significantly across segments. While high-value customer groups such as “Big Spenders” contribute disproportionately high revenue, their population size remains relatively small.
 
@@ -179,7 +183,7 @@ A stronger loyalty ecosystem could improve long-term customer engagement and sta
 
 ---
 
-## Expand Geographic & Product Growth Opportunities
+### Expand Geographic & Product Growth Opportunities
 
 Revenue concentration is heavily centered around several major Brazilian states and cities, indicating opportunities for both geographic and product diversification.
 
