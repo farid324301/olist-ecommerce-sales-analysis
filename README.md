@@ -2,7 +2,9 @@
 
 An end-to-end e-commerce analytics project using MySQL and Power BI to analyze sales performance, product category behavior, and customer retention opportunities.
 
-Project Background
+---
+
+# Project Background
 
 This project analyzes the Brazilian E-Commerce Public Dataset published by Olist, a Brazilian technology company that provides e-commerce and marketplace solutions for small and medium-sized businesses.
 
