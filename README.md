@@ -93,21 +93,14 @@ Product category analysis shows that revenue contribution is relatively diversif
 
 > ![Sales_trends](image/product_category_insight.png)
 
-* `beleza_saude`
-* `relogios_presentes`
-* `cama_mesa_banho`
-* `esporte_lazer`
-* `informatica_acessorios`
+* Product performance shows that Olist’s revenue and order volume were distributed across several key categories, with the top categories contributing around **30–40%** of total share in both 2017 and 2018. This indicates that Olist’s sales were not overly dependent on one single category, but supported by a relatively diversified product mix.
 
-consistently contributed significant portions of both revenue and order volume across 2017 and 2018.
+* In 2018, the strongest product categories generated meaningful revenue contribution. beleza_saude became the top revenue category, generating approximately **$772.2K** and contributing **10.46%** of total revenue. It was followed by relogios_presentes with around **$708.9K** and **9.60%** revenue share, and cama_mesa_banho with approximately **$538.1K** and **7.28%** revenue share.
 
-Several categories demonstrated strong balance between order share and revenue share, indicating healthy monetization performance alongside strong purchasing demand. Meanwhile, certain categories generated high operational activity but contributed comparatively lower revenue, suggesting lower average product pricing.
+* Order volume showed a similar pattern. The top categories also contributed around **30–40%** of total product orders, with beleza_saude contributing **10.05%** of orders in 2018 and cama_mesa_banho contributing **9.13%**.
 
-The analysis also indicates that category leadership shifted slightly between years, reflecting changing consumer demand patterns and marketplace purchasing behavior.
+Overall, the product analysis suggests that Olist’s sales performance was supported by multiple strong categories rather than one dominant product line. This creates a healthier product portfolio, while also highlighting opportunities to further optimize high-performing categories through targeted promotions, inventory planning, and cross-selling strategies.
 
-Overall, the company’s product portfolio appears relatively balanced, reducing overreliance on a single category while maintaining consistent revenue contribution from multiple product segments.
-
----
 
 # Customer Insight
 
