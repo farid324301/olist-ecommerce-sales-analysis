@@ -64,6 +64,9 @@ These challenges helped strengthen the overall analytical process through repeat
 
 The analysis of Olist’s e-commerce transactions between 2016 and 2018 reveals strong overall sales growth driven primarily by increasing order volume rather than higher transaction values. Total revenue reached approximately **$13.59M** across nearly **99K orders**, while Average Order Value (AOV) remained relatively stable at **$136.68**.
 
+> ![ERD](image/executive_overview.png)
+
+
 Key performance indicators showed substantial year-over-year growth, with revenue increasing by **205%** and total orders rising by **209%**. However, AOV slightly declined by approximately **1%**, indicating that business expansion was largely fueled by customer purchasing frequency and transaction volume instead of increased basket size.
 
 The following sections further explore sales performance trends, product category behavior, and customer purchasing patterns to identify potential business opportunities and operational insights.
