@@ -34,13 +34,13 @@ Through this project, business questions related to revenue growth, customer beh
 
 An interactive Power BI dashboard can be downloaded [here](dashboard/Olist_Sales_Performance_Dashboard.pbix).
 
-The SQL queries used for Executive Overview analysis can be found [here](sql/executive_overview.sql).
+The SQL queries used for Executive Overview analysis can be found [here](sql/Executive_Overview.sql).
 
-The SQL queries used for Sales Trend Analysis can be found [here](sql/sales_trend_analysis.sql).
+The SQL queries used for Sales Trend Analysis can be found [here](sql/Sales_Trends.sql).
 
-The SQL queries used for Product Category Insight can be found [here](sql/product_category_insight.sql).
+The SQL queries used for Product Category Insight can be found [here](sql/Product_Category_Insight.sql).
 
-The SQL queries used for Customer Insight and RFM segmentation can be found [here](sql/customer_insight.sql).
+The SQL queries used for Customer Insight and RFM segmentation can be found [here](sql/Customer_Insight.sql).
 
 
 # Data Structure & Initial Checks
