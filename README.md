@@ -32,7 +32,7 @@ The data model was structured in Power BI using a star-schema-like approach to s
 
 ## Entity Relationship Diagram (ERD)
 
-> ![ERD](images/erd.png)
+> ![ERD](image/erd.png)
 
 ---
 
