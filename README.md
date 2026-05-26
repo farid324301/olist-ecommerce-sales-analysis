@@ -36,6 +36,18 @@ The project uses a relational e-commerce dataset consisting of multiple intercon
 
 The data model was structured in Power BI using a star-schema-like approach to support analytical reporting and dashboard performance.
 
+## Project Links
+
+An interactive Power BI dashboard can be downloaded [here](dashboard/olist_dashboard.pbix).
+
+The SQL queries used for Executive Overview analysis can be found [here](sql/executive_overview.sql).
+
+The SQL queries used for Sales Trend Analysis can be found [here](sql/sales_trend_analysis.sql).
+
+The SQL queries used for Product Category Insight can be found [here](sql/product_category_insight.sql).
+
+The SQL queries used for Customer Insight and RFM segmentation can be found [here](sql/customer_insight.sql).
+
 ## Entity Relationship Diagram (ERD)
 
 > ![ERD](image/erd.png)
