@@ -64,26 +64,26 @@ These challenges helped strengthen the overall analytical process through repeat
 
 > ![Executive_summary](image/executive_overview.png)
 
-*The analysis of Olist’s e-commerce transactions between 2016 and 2018 reveals strong overall sales growth driven primarily by increasing order volume rather than higher transaction values. Total revenue reached approximately **$13.59M** across nearly **99K orders**, while Average Order Value (AOV) remained relatively stable at **$136.68**.
+* The analysis of Olist’s e-commerce transactions between 2016 and 2018 reveals strong overall sales growth driven primarily by increasing order volume rather than higher transaction values. Total revenue reached approximately **$13.59M** across nearly **99K orders**, while Average Order Value (AOV) remained relatively stable at **$136.68**.
 
-*Key performance indicators showed substantial year-over-year growth, with revenue increasing by **205%** and total orders rising by **209%**. However, AOV slightly declined by approximately **1%**, indicating that business expansion was largely fueled by customer purchasing frequency and transaction volume instead of increased basket size.
+* Key performance indicators showed substantial year-over-year growth, with revenue increasing by **205%** and total orders rising by **209%**. However, AOV slightly declined by approximately **1%**, indicating that business expansion was largely fueled by customer purchasing frequency and transaction volume instead of increased basket size.
 
-*The following sections further explore sales performance trends, product category behavior, and customer purchasing patterns to identify potential business opportunities and operational insights.
+* The following sections further explore sales performance trends, product category behavior, and customer purchasing patterns to identify potential business opportunities and operational insights.
 
 # Sales Trends
 
 > ![Sales_trends](image/sales_trends.png)
 
 
-*Sales performance showed strong growth from early 2017 through most of 2018. In January 2017, Olist recorded approximately 800 orders and $0.12M revenue. By November 2017, monthly performance increased sharply to around 7,544 orders and $1.01M revenue, making it one of the strongest months in the observed period.
+* Sales performance showed strong growth from early 2017 through most of 2018. In January 2017, Olist recorded approximately 800 orders and $0.12M revenue. By November 2017, monthly performance increased sharply to around 7,544 orders and $1.01M revenue, making it one of the strongest months in the observed period.
 
-*Throughout 2017, revenue increased from $0.12M in January to more than $1.0M in November, while order volume also grew significantly from 800 orders to more than 7.5K orders. This indicates that the company’s growth during 2017 was mainly driven by increasing transaction volume.
+* Throughout 2017, revenue increased from $0.12M in January to more than $1.0M in November, while order volume also grew significantly from 800 orders to more than 7.5K orders. This indicates that the company’s growth during 2017 was mainly driven by increasing transaction volume.
 
-*In 2018, sales performance remained relatively strong during the first eight months. Monthly revenue stayed within the range of approximately $0.84M to $1.00M, while monthly order volume remained between roughly 6.1K and 7.3K orders. This suggests that after the rapid growth phase in 2017, Olist entered a more stable sales performance period in 2018.
+* In 2018, sales performance remained relatively strong during the first eight months. Monthly revenue stayed within the range of approximately $0.84M to $1.00M, while monthly order volume remained between roughly 6.1K and 7.3K orders. This suggests that after the rapid growth phase in 2017, Olist entered a more stable sales performance period in 2018.
 
-*Average Order Value remained relatively stable across most months. In 2017, AOV generally ranged between $124 and $150, while in 2018 it mostly stayed between $125 and $145. This supports the conclusion that revenue growth was driven more by order volume expansion than by a significant increase in customer spending per order.
+* Average Order Value remained relatively stable across most months. In 2017, AOV generally ranged between $124 and $150, while in 2018 it mostly stayed between $125 and $145. This supports the conclusion that revenue growth was driven more by order volume expansion than by a significant increase in customer spending per order.
 
-*One important limitation is visible in late 2018, where September shows only 16 orders and nearly $0.00M revenue. This appears to be caused by incomplete transaction records in the dataset rather than an actual business collapse. Because of this, late-2018 data should be interpreted carefully.
+* One important limitation is visible in late 2018, where September shows only 16 orders and nearly $0.00M revenue. This appears to be caused by incomplete transaction records in the dataset rather than an actual business collapse. Because of this, late-2018 data should be interpreted carefully.
 
 Overall, the Sales Trends analysis shows that Olist experienced strong marketplace growth in 2017, followed by a more stable but still high-volume performance period in 2018. Revenue growth was primarily supported by increased order activity, while AOV remained comparatively stable.
 
